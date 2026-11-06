@@ -1,0 +1,15 @@
+{
+  "name": "metawire-agent-feed-7867",
+  "version": "1.0.0",
+  "description": "Emerging reality intelligence microservice producing deterministic signal feeds and spatial tensors for autonomous agents.",
+  "tools": [
+    {
+      "name": "service_status",
+      "description": "Get current status and computations from this autonomous service",
+      "inputSchema": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  ]
+}
